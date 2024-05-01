@@ -10,3 +10,5 @@ This repository contains all source code of **Group Project** for the **BITP3113
 3. NUR AINA SYAZWANI BINTI MOHAMAD NAZRI (BITS S1G1) [B032110220]
 4. NUR SYAFIQAH BINTI MOHAMMAD ROZI (BITS S1G1) [B032110192]
 5. ROSE ASNARIZZA BINTI NAHAR (BITS S1G1) [B032110224]
+
+### Project Pitching Link: https://www.youtube.com/watch?v=0jL5r9guXcg&list=PLeQRWEe6nZbVJCvfr1yFFv31xOU3_hTq7
