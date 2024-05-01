@@ -1,8 +1,8 @@
 # BITP3113 GROUP PROJECT
 
-This repository contains all source code for the BITP3113 Object-Oriented Programming Group Project which is done in Year 2022/2023 Semester 1.
+This repository contains all source code of **Group Project** for the **BITP3113 Object-Oriented Programming** which is done in Year 2022/2023 Semester 1.
 
-## Dental Management System
+## Project: Dental Management System
 
 ## Group Members:
 1. ADIB ADLIYANA BINTI SUPARMAN (BITS S1G1) [B032110163]
